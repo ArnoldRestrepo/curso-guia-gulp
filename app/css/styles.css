@@ -1,0 +1,15 @@
+/*
+
+*/
+/* BASIC */
+body {
+  background-color: #0d5c63;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Helvetica, sans-serif; }
+  body p {
+    color: #041a1b; }
+
+h1 {
+  color: #fffffa; }

@@ -1,0 +1,26 @@
+//  Paleta de Colores
+$colorAzulOscuro: 	#0d5c63;
+$colorAzulClaro: 	#78cdd7;
+$colorBlanco: 		#fffffa;
+$colorNegro: 		#041a1b;
+
+/*
+
+*/
+
+/* BASIC */
+body{
+	background-color: $colorAzulOscuro;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-family: Helvetica, sans-serif;
+	
+	& p{
+		color: $colorNegro;
+	}
+}
+
+h1{
+	color: $colorBlanco;
+}
