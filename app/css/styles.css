@@ -1,15 +1,1 @@
-/*
-
-*/
-/* BASIC */
-body {
-  background-color: #0d5c63;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  font-family: Helvetica, sans-serif; }
-  body p {
-    color: #041a1b; }
-
-h1 {
-  color: #fffffa; }
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:Roboto,Helvetica,sans-serif;font-size:16px}header{width:100%;height:80px;background:#0d5c63;display:flex;flex:wrap;justify-content:space-between;align-items:center;padding:0 8%}header h1{color:#fff;text-transform:uppercase}nav ul li{list-style-type:none;display:inline-flex}nav ul li a{text-decoration:none;color:#fffffa;padding:0 10px}nav ul li a:hover{color:#78cdd7}main{display:flex;margin:20px 8%}section{padding:10px}article{margin-top:20px}
